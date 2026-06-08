@@ -1,0 +1,31 @@
+django-environ==0.13.0
+django-extensions==3.2.3
+django-jazzmin==3.0.4
+drf-yasg==1.21.8
+factory-boy==3.3.3
+pip-chill==1.0.3
+pytest-django==4.9.0
+python-dotenv==1.0.1
+virtualenv==20.27.0
+# asgiref==3.11.1 # Installed as dependency for django
+# colorama==0.4.6 # Installed as dependency for pytest
+# distlib==0.4.0 # Installed as dependency for virtualenv
+# django==5.2.14 # Installed as dependency for django-extensions, django-jazzmin, djangorestframework, drf-yasg
+# djangorestframework==3.17.1 # Installed as dependency for drf-yasg
+# faker==30.8.2 # Installed as dependency for factory-boy
+# filelock==3.29.0 # Installed as dependency for virtualenv
+# inflection==0.5.1 # Installed as dependency for drf-yasg
+# iniconfig==2.3.0 # Installed as dependency for pytest
+# packaging==26.2 # Installed as dependency for drf-yasg, pytest
+# platformdirs==4.9.6 # Installed as dependency for virtualenv
+# pluggy==1.6.0 # Installed as dependency for pytest
+# pygments==2.20.0 # Installed as dependency for pytest
+# pytest==9.0.3 # Installed as dependency for pytest-django
+# python-dateutil==2.9.0.post0 # Installed as dependency for faker
+# pytz==2026.2 # Installed as dependency for drf-yasg
+# pyyaml==6.0.3 # Installed as dependency for drf-yasg
+# six==1.17.0 # Installed as dependency for python-dateutil
+# sqlparse==0.5.5 # Installed as dependency for django
+# typing-extensions==4.15.0 # Installed as dependency for faker
+# tzdata==2026.2 # Installed as dependency for django
+# uritemplate==4.2.0 # Installed as dependency for drf-yasg
